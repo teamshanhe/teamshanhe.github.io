@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://to-be-decided/sitemap.xml
+Sitemap: https://wiki.shanhe.co/sitemap.xml
