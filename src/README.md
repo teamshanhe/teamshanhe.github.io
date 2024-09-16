@@ -20,6 +20,6 @@ highlights:
       - title: 计算机科学百科
         icon: computer
         details: 进入山河大学计算机科学百科
-        link: https://cs.wiki.shanhe.run
+        link: https://cs.wiki.shanhe.co
 
 ---
