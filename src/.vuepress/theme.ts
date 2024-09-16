@@ -1,7 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
 export default hopeTheme({
-  hostname: "https://to-be-decided",
+  hostname: "https://wiki.shanhe.co",
 
   author: [
     {
